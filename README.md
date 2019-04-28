@@ -1,2 +1,2 @@
 # gpl-test
-Test to see the generates LICENSE for a GPL3 project
+Test to see the generated LICENSE for a GPL3 project
